@@ -1,4 +1,4 @@
-
+//Jsnack 3 - Chiedere per 10 volte un numero e poi stampa la somma di tutti i numeri
 
 var numbers = [];
 for (var i = 0; i < 10; i++) {
