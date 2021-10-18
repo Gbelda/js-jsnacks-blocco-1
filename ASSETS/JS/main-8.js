@@ -3,7 +3,7 @@
 
 let userNumbers = prompt('Enter a 4 digit number')
 
-// const result = parseInt(userNumber[0]) + parseInt(userNumber[1]) + parseInt(userNumber[2]) + parseInt(userNumber[3])
+
 var sum = 0
 for (let index = 0; index < userNumbers.length; index++) {
 
