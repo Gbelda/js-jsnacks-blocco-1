@@ -13,5 +13,5 @@ if (firstWord.length > secondWord.length) {
     ${secondWord}`
 
 } else {
-    longer.innerHTML = "SAME WORD LENGHT"
+    longer.innerHTML = "SAME WORD LENGTH"
 }
