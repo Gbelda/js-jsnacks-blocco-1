@@ -33,3 +33,5 @@ if (firstWord.length > secondWord.length) {
     longer.innerHTML = "SAME WORD LENGHT"
 }
 
+
+//J snack 3 - 
